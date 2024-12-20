@@ -1,0 +1,18 @@
+asgiref @ file:///croot/asgiref_1724072470684/work
+Bottleneck @ file:///croot/bottleneck_1731058641041/work
+Django @ file:///croot/django_1731615954020/work
+djangorestframework==3.15.2
+et-xmlfile==1.1.0
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+numexpr @ file:///croot/numexpr_1730215937391/work
+numpy @ file:///croot/numpy_and_numpy_base_1725470312869/work/dist/numpy-2.0.1-cp311-cp311-linux_x86_64.whl#sha256=372b9067cf9c96d8662c6f20ef49eeda43f0f8d2f074820224c954d8d8fae7bc
+openpyxl @ file:///croot/openpyxl_1721752957391/work
+pandas @ file:///croot/pandas_1732735089971/work/dist/pandas-2.2.3-cp311-cp311-linux_x86_64.whl#sha256=884420a58b11b4c9b7f4df21046caaae9229522b672b557f0f98c84251141fc5
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv_1733243180666/work
+pytz @ file:///croot/pytz_1713974312559/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sqlparse @ file:///croot/sqlparse_1690901927333/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
